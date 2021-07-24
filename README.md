@@ -1,4 +1,4 @@
-# To-Do-List
+# Line-Up
 
 Mastering my vanilla JS skills. <br>
 Live demo:   https://sanjaymutthu.github.io/To-Do-List/ <br>
